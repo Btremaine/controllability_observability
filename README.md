@@ -1,29 +1,27 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+*Install files in a Matlab directory (Controllability)
+* Run script parameters.m to define system and calculate
+* matricies CO and OB.
+
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Matlab script examples for Controllability / Observability
+* This version is version 1.0.0
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Uses Matlab R2022a
 
-### Contribution guidelines ###
+### License ###
+* This software is distributed under the GNU General Public 
+* Licence (version 3 or later); please refer to the file 
+* Licence.md, included with the software, for details.
+* Cite the source if republished or reditributed.
 
-* Writing tests
-* Code review
-* Other guidelines
 
 ### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* Brian Tremaine
+* brian@TremaineConsultingGroup.com
+* 
