@@ -48,3 +48,7 @@ Thumbs.db
 *.mov
 *.wmv
 
+# Simulink cache files
+*.auto_save
+*.asv
+*.slxc
